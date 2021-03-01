@@ -13,10 +13,10 @@ Practice cleaning messy data using pandas, XML, JSON, raw text, and working with
 
 ### Inferential Statistics
 This unit explores three different types of statistical inference and examines their similarities and differences through hands-on work and tutorials.
-* Human Height - hypothesis testing,  and statistical significance
-* Hospital Admissions - Confidence intervals
-* Examining Racial Discrimination – using Bootstrap inference. 
-* Reducing Hospital Readmissions - using Bayesian inference.
+* Frequentism Part 1
+* Frequentism Part 2
+* Bootstrap inference 
+* Bayesian inference
 
 ### Machine Learning
 Projects in this unit cover core machine learning (ML) techniques. It explores supervised and unsupervised learning algorithms and best practices for applying machine learning. The curriculum in this unit represents a balance between technical rigor and practical applications with the ML techniques that are most widely used today.  
