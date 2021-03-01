@@ -1,9 +1,11 @@
 # Springboard Data Science Career Track
 Projects completed as part of Springboard's Data Science Intensive curriculum.
 
-### Capstone Projects
+## Capstone Projects
 * Determining if Marketing Leads Will Convert - Using logistic regression I developed a model to predict if marketing leads will convert with 90% accuracy. 
 * Self-Triage Classification using Random Forests - Using a limited set of symptoms I developed a model to help patients determine how quickly they may need to seek medical care based on a possible diagnosis.
+
+## Other Projects
 
 ### Data Wrangling
 Practice cleaning messy data using pandas, XML, JSON, raw text, and working with databases.
