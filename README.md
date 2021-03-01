@@ -14,7 +14,7 @@ Practice cleaning messy data using pandas, XML, JSON, raw text, and working with
 ### Inferential Statistics
 This unit explores three different types of statistical inference and examines their similarities and differences through hands-on work and tutorials.
 * Human Height - hypothesis testing,  and statistical significance
-* Hospital Admissions - Confidence interval
+* Hospital Admissions - Confidence intervals
 * Examining Racial Discrimination – using Bootstrap inference. 
 * Reducing Hospital Readmissions - using Bayesian inference.
 
