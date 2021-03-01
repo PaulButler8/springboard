@@ -6,9 +6,9 @@ Self-Triage Classification using Random Forests - Using a limited set of symptom
 
 Data Wrangling
 Practice cleaning messy data using pandas, XML, JSON, raw text, and working with databases.
-JSON Based Data Exercise
-API Mini-Project
-SQL Mini-Project
+*JSON Based Data Exercise
+*API Mini-Project
+*SQL Mini-Project
 
 Inferential Statistics
 This unit explores three different types of statistical inference and examines their similarities and differences through hands-on work and tutorials.
