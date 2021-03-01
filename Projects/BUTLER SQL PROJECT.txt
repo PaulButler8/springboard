@@ -40,7 +40,6 @@ Query:
 SELECT name
 FROM Facilities
 WHERE membercost > 0
-LIMIT 0 , 30
 
 /* Q2: How many facilities do not charge a fee to members? */
 
@@ -51,7 +50,6 @@ Query:
 SELECT name
 FROM `Facilities`
 WHERE membercost = 0
-LIMIT 0 , 30
 
 /* Q3: How can you produce a list of facilities that charge a fee to members,
 where the fee is less than 20% of the facility's monthly maintenance cost?
@@ -64,7 +62,6 @@ SELECT `facid` , `name` , `membercost` , `monthlymaintenance`
 FROM `Facilities`
 WHERE membercost < ( monthlymaintenance / 5 )
 AND membercost > 0
-LIMIT 0 , 30
 
 
 /* Q4: How can you retrieve the details of facilities with ID 1 and 5?
@@ -73,7 +70,6 @@ Write the query without using the OR operator. */
 SELECT *
 FROM `Facilities`
 WHERE facid IN ( 1, 5 )
-LIMIT 0 , 30
 
 
 /* Q5: How can you produce a list of facilities, with each labelled as
@@ -89,7 +85,7 @@ THEN 'Cheap'
 ELSE NULL
 END AS maintenance_category
 FROM `Facilities`
-LIMIT 0 , 30
+
 
 /* Q6: You'd like to get the first and last name of the last member(s)
 who signed up. Do not use the LIMIT clause for your solution. */
